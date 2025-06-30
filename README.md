@@ -1,10 +1,10 @@
 # 📊 Modelo Preditivo para Análise de Risco de Crédito
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge" alt="Status do Projeto: Concluído"/>
+  <img src="https://img.shields.io/badge/Status-Refatorando-blue?style=for-the-badge" alt="Status do Projeto: Refatorando"/>
   <img src="https://img.shields.io/badge/Plataforma-Kaggle%20Notebook-0077B5?style=for-the-badge&logo=kaggle&logoColor=white" alt="Plataforma: Kaggle Notebook"/>
   <img src="https://img.shields.io/badge/Linguagem-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Linguagem: Python"/>
-<img src="https://img.shields.io/badge/Bibliotecas-Scikit--learn%20|%20Pandas%20|%20LightGBM%20|%20SHAP-orange?style=for-the-badge" alt="Bibliotecas: Scikit-learn | Pandas | LightGBM | SHAP"/>
+  <img src="https://img.shields.io/badge/Bibliotecas-Scikit--learn%20|%20Pandas%20|%20LightGBM%20|%20SHAP-orange?style=for-the-badge" alt="Bibliotecas: Scikit-learn | Pandas | LightGBM | SHAP"/>
 </p>
 
 <p align="center">
