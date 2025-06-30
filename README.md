@@ -7,7 +7,9 @@
 <img src="https://img.shields.io/badge/Bibliotecas-Scikit--learn%20|%20Pandas%20|%20LightGBM%20|%20SHAP-orange?style=for-the-badge" alt="Bibliotecas: Scikit-learn | Pandas | LightGBM | SHAP"/>
 </p>
 
-![Capa do Projeto](analise-risco-credito-python/assets/capa.png)
+<p align="center">
+  <img src="assets/capa.png" alt="LIGHTGBM" width="80%"/>
+</p>
 
 ## 🌟 Resumo do Projeto
 
@@ -29,6 +31,10 @@ Este projeto foi desenvolvido como um case técnico para a vaga de Cientista de 
 
 ---
 
+<p align="center">
+  <img src="assets/caloteiros_identificados.png" alt="LIGHTGBM" width="80%"/>
+</p>
+
 ## 🚀 Funcionalidades e Análises Principais
 
 * **Pipeline Robusto:** Processamento de múltiplos arquivos `.parquet` e tratamento de dados inconsistentes.
@@ -42,7 +48,7 @@ Este projeto foi desenvolvido como um case técnico para a vaga de Cientista de 
 
 ## 📊 Estrutura do Projeto
 
-Atualmente sendo reproduzível utilizando do link do Kaggle Notebook acima, atualmente o código está sendo refaturado para reestruturação.
+Atualmente sendo reproduzível utilizando do link do Kaggle Notebook acima, o código está sendo refaturado para reestruturação.
 
 O projeto será dividido em **dois notebooks** para melhor organização e reprodutibilidade:
 
