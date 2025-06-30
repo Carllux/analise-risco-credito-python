@@ -11,7 +11,7 @@
 
 Este projeto foi desenvolvido como um case técnico para a vaga de Cientista de Dados, com o objetivo de criar uma solução **de ponta a ponta** para aprimorar a avaliação de risco de crédito em uma instituição financeira. A solução envolve desde a análise exploratória até a criação de um modelo preditivo robusto, com ênfase em interpretabilidade e mitigação de prejuízos.
 
-**[🔗 Clique aqui para acessar o Notebook no Kaggle](https://www.kaggle.com/code/)**
+**[🔗 Clique aqui para acessar o Notebook no Kaggle](https://www.kaggle.com/code/carllux/analise-risco-credito-python)**
 
 ---
 
