@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/badge/Bibliotecas-Scikit--learn%20|%20Pandas%20|%20LightGBM%20|%20SHAP-orange?style=for-the-badge" alt="Bibliotecas: Scikit-learn | Pandas | LightGBM | SHAP"/>
 </p>
 
+![Capa do Projeto](analise-risco-credito-python/assets/capa.png)
+
 ## 🌟 Resumo do Projeto
 
 Este projeto foi desenvolvido como um case técnico para a vaga de Cientista de Dados, com o objetivo de criar uma solução **de ponta a ponta** para aprimorar a avaliação de risco de crédito em uma instituição financeira. A solução envolve desde a análise exploratória até a criação de um modelo preditivo robusto, com ênfase em interpretabilidade e mitigação de prejuízos.
@@ -40,7 +42,9 @@ Este projeto foi desenvolvido como um case técnico para a vaga de Cientista de 
 
 ## 📊 Estrutura do Projeto
 
-O projeto é dividido em **dois notebooks** para melhor organização e reprodutibilidade:
+Atualmente sendo reproduzível utilizando do link do Kaggle Notebook acima, atualmente o código está sendo refaturado para reestruturação.
+
+O projeto será dividido em **dois notebooks** para melhor organização e reprodutibilidade:
 
 ### Notebook 1: Preparação e Análise Exploratória (EDA)
 
